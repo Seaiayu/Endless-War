@@ -1,0 +1,42 @@
+	fleet "Small Republic" 2000
+	fleet "Large Republic" 5000
+	fleet "Small Free Worlds" 2000
+	fleet "Large Free Worlds" 5000
+	fleet "Small Syndicate" 2000
+	fleet "Large Syndicate" 5000
+
+	fleet "Small Republic" 2000
+	fleet "Small Free Worlds" 2000
+
+	fleet "Small Syndicate" 2000
+	fleet "Small Republic" 2000
+
+	fleet "Small Syndicate" 2000
+	fleet "Small Free Worlds" 2000
+
+	fleet "Large Republic" 5000
+	fleet "Large Free Worlds" 5000
+
+	fleet "Large Free Worlds" 5000
+	fleet "Large Syndicate" 5000
+
+	fleet "Large Syndicate" 5000
+	fleet "Large Republic" 5000
+
+	fleet "Large Free Worlds" 5000
+	fleet "Small Republic" 2000
+
+	fleet "Large Republic" 5000
+	fleet "Small Free Worlds" 2000
+
+	fleet "Large Free Worlds" 5000
+	fleet "Small Syndicate" 2000
+
+	fleet "Large Syndicate" 5000
+	fleet "Small Free Worlds" 2000
+
+	fleet "Large Republic" 5000
+	fleet "Small Syndicate" 2000
+
+	fleet "Large Syndicate" 5000
+	fleet "Small Republic" 2000
